@@ -14,7 +14,7 @@
       "TEXT_LINK": ["#e3cb2d"],
       "INTERACTIVE_NORMAL": ["#c4a699"],
       "INTERACTIVE_HOVER": ["#bd9788"],
-      "INTERACTIVE_ACTIVE": ["#E1C5FD"],
+      "INTERACTIVE_ACTIVE": ["#d83e00"],
       "INTERACTIVE_MUTED": ["#5F5160"],
       "BACKGROUND_PRIMARY": ["#000000"],
       "BACKGROUND_SECONDARY": ["#000000"],
@@ -45,7 +45,7 @@
       "SPOILER_REVEALED_BACKGROUND": ["#5E5E5E"]
     },
     "rawColors": {
-      "PRIMARY_100": "#F2D8FD",
+      "PRIMARY_100": "#d83e00",
       "PRIMARY_200": "#d83e00",
       "PRIMARY_300": "#d83e00",
       "PRIMARY_360": "#d83e00",
