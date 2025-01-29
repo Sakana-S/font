@@ -309,8 +309,8 @@
             "#000000"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
-            "#74c7ec",
-            "#74c7ec"
+            "#ed9c74",
+            "#ed9c74"
         ],
         "TEXT_DANGER": [
             "#fb4934",
@@ -325,8 +325,8 @@
             "#ffd8b0"
         ],
         "TEXT_MUTED": [
-            "#80d4d2",
-            "#80d4d2"
+            "#d49b7f",
+            "#d49b7f"
         ],
         "TEXT_NORMAL": [
             "#ffd8b0",
