@@ -77,8 +77,8 @@
             "#060607"
         ],
         "CHANNELS_DEFAULT": [
-            "#617b7a",
-            "#617b7a"			
+            "#7a7261",
+            "#7a7261"			
         ],
         "CHANNEL_ICON": [
             "#6b2400",
@@ -237,12 +237,12 @@
             "#ffd8b0"
         ],
         "INTERACTIVE_HOVER": [
-            "#bac2de",
-            "#bac2de"
+            "#dedeba",
+            "#dedeba"
         ],
         "INTERACTIVE_MUTED": [
-            "#324c4b",
-            "#324c4b"
+            "#4d4432",
+            "#4d4432"
         ],
         "INTERACTIVE_NORMAL": [
             "#f0c69c",
@@ -317,8 +317,8 @@
             "#9d0006"
         ],
         "TEXT_LINK": [
-            "#b4befe",
-            "#7680C0"
+            "#f4feb4",
+            "#c0bc76"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#ffd8b0",
